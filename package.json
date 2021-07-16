@@ -1,0 +1,26 @@
+{
+  "name": "@yiyuana/prettier-config",
+  "version": "1.0.0",
+  "description": "personal prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yiyuana/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": {
+    "name": "yiyuan",
+    "email": "841353917@qq.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiyuana/prettier-config/issues"
+  },
+  "homepage": "https://github.com/yiyuana/prettier-config#readme"
+}
