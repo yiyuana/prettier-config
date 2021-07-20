@@ -20,7 +20,7 @@ module.exports = {
    * 是否使用单引号，默认false(在jsx中配置无效，默认都是双引号)
    * vue项目中，可能使用单引号会比较多，看团队规范吧~
    */
-  singleQuote: false,
+  singleQuote: true,
   /**
    * 箭头函数只有一个参数时，是否要有小括号
    * 默认avoid 可选 avoid| always
